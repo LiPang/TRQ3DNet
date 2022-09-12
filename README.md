@@ -15,18 +15,21 @@ We propose a new deep neural network termed TRQ3DNet which combines convolutiona
  model out-performs other state-of-art methods in all complex cases.
 
 <div align=center>
-<img src="imgs/ICVL_Gauss.png" height="170px"/>
+<img src="imgs/ICVL_Gauss.png" height="100%" width="100%"/>
 
-<img src="imgs/ICVL_Complex.png" height="180px"/>
+<img src="imgs/ICVL_Complex.png" height="100%" width="100%"/>
 </div>
 
-* We also evaluate our model on two real HSI datasets, i.e., Indian Pines and Urban. We show some visulization
+* We also evaluate our model on two real HSI datasets, i.e., Indian Pines and Urban. We adopt
+ the visualization and one no-reference quality assessment, which
+ evaluates the image quality according to the changes in kurtosis values of noisy images. The lower
+ the score, the higher the quality of the recovered image. We show some visulization
  comparison results, from which it can be seen that our model achieves better performance than other methods.
 
 <div align=center>
-<img src="imgs/Indian_pines.png" height="200px" width="320px"/>
+<img src="imgs/Indian_pines.png" height="100%" width="100%"/>
 
-<img src="imgs/Urban.png" height="199px" width="320px"/>
+<img src="imgs/Urban.png" height="100%" width="100%"/>
 </div>
 
 ## Getting Started

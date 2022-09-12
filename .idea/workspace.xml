@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fe15ac1-c25a-4122-9c4f-cc4b1c64a091" name="Changes" comment="Initial commit" />
+    <list default="true" id="9fe15ac1-c25a-4122-9c4f-cc4b1c64a091" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="afded768-c716-4187-8b9d-b7a45f076eea" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,7 +68,7 @@
       <workItem from="1659952711035" duration="434000" />
       <workItem from="1662908992373" duration="3704000" />
       <workItem from="1662912816028" duration="1020000" />
-      <workItem from="1662941952624" duration="8415000" />
+      <workItem from="1662941952624" duration="9412000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1659928210839</created>
