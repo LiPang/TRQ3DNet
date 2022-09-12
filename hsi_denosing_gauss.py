@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
     icvl_64_31_TL_1 = make_dataset(
         opt, train_transform_1,
-        target_transform, common_transform_1, 8)
+        target_transform, common_transform_1, 16)
 
     icvl_64_31_TL_2 = make_dataset(
         opt, train_transform_2,
